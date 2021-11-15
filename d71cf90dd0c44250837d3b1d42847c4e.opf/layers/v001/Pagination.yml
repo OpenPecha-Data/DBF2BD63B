@@ -14,21 +14,21 @@ annotations:
     reference: ''
     span:
       start: 752
-      end: 2025
+      end: 2024
     note_ref: 2f4ef930a7bc438ba5b8678f47c80d2e
   3cbdfb75c0ca447aba909ee417e8b8e1:
     imgnum: 209
     reference: ''
     span:
-      start: 2027
-      end: 2537
+      start: 2026
+      end: 2532
     note_ref: 2f4ef930a7bc438ba5b8678f47c80d2e
   2f4ef930a7bc438ba5b8678f47c80d2e:
     imgnum: 210
     reference: ''
     span:
-      start: 2539
-      end: 3525
+      start: 2534
+      end: 3520
   4aad749d292a414bb659907101fcc819:
     imgnum: 211
     reference: ''
