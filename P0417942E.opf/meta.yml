@@ -1,5 +1,10 @@
-id: d71cf90dd0c44250837d3b1d42847c4e
+id: P0417942E
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2021-11-12T09:20:48+00:00'
+last_modified: '2022-05-20T14:51:32.731674'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
   volumes:
     c394a182d8894d9cb86d7a468f6fa783:
@@ -8,3 +13,5 @@ source_metadata:
       title: ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ཐུན་མོང་མ་ཡིན་པ་ལ་བསྟོད་པ།
       total_pages: 1539
       volume_number: 1
+statistics: {}
+quality: {}
